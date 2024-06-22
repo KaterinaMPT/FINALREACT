@@ -1,0 +1,26 @@
+#ros{
+    width: 96%;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    border-radius: 2%;
+}
+
+div{
+    font-family: "Bookman" !important;
+    font-style: "Book Antiqua" !important;
+}
+
+#opis{
+    text-align: center;
+    align-self: center;
+}
+
+#sec1, #contform{
+    margin-left: 3%;
+    margin-top: 5%;
+}
+
+#allcat{
+    font-size: 20px;
+}

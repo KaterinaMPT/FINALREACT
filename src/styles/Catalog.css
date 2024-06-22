@@ -1,0 +1,29 @@
+  .btn {
+    margin-top: 5px;
+    width: 100%;
+  }
+  
+  #catal {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #in {
+    display: block;
+    margin: 0 auto 20px;
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  select {
+    display: block;
+    margin: 0 auto 20px;
+    width: 320px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  #categg{
+    margin-left: 5%;
+  }
+  

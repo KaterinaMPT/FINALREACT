@@ -1,0 +1,16 @@
+header{
+    width: 100%;
+    background-color: rgb(255, 199, 88);
+}
+
+a{
+    font-size: 20px;
+    color: rgb(57, 33, 0) !important;
+    text-decoration: none !important;
+}
+
+#nazv{
+    color: rgb(57, 33, 0) !important;
+    margin-top: 1%;
+    margin-right: 2%;
+}
